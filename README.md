@@ -1,4 +1,6 @@
-### Hi there 👋
+# Sogang Univ. MLSys Lab.
+
+[Official Repository](https://github.com/mlsys-lab-sogang)
 
 <!--
 **MLSys-Sogang/MLSys-Sogang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
