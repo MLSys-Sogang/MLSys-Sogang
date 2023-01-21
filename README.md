@@ -1,4 +1,4 @@
-# Sogang Univ. MLSys Lab.
+# MLSys Lab @Sogang University
 
 [Official Repository](https://github.com/mlsys-lab-sogang)
 
